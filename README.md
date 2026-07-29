@@ -35,10 +35,6 @@ This lightweight, responsive website acts as a central hub for my professional p
 Local Setup
 No external build tools or node packages are required. To view or edit the site locally:
 
-```
-
----
-
 Clone the repository:
 
 Bash
@@ -50,6 +46,7 @@ cd sasindusachintha.github.io
 Open the site:
 Simply double-click index.html or open it directly inside any standard modern web browser.
 
+```
 ---
 
 ## 🔗 Featured Projects Linked
