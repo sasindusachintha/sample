@@ -1,4 +1,4 @@
-# 🚀 Sasindu Sachintha | Personal Portfolio
+# 🚀 Sample site
 
 Welcome to my portfolio repository! This single-page application showcases my background, core technical skills, hands-on projects, and contact information. 
 
@@ -50,15 +50,15 @@ Simply double-click index.html or open it directly inside any standard modern we
 ---
 
 ## 🔗 Featured Projects Linked
-* ** GENIUS BOOKS: C++ Console-based Bookshop Management System.
-* **SweetCupcake Shop: Java Swing GUI Application for inventory/sales tracking.
-* **GreenTrack System: Database tracking application utilizing SQL and structured schema design.
+*  GENIUS BOOKS: C++ Console-based Bookshop Management System.
+* SweetCupcake Shop: Java Swing GUI Application for inventory/sales tracking.
+* GreenTrack System: Database tracking application utilizing SQL and structured schema design.
 
 ---
 
 ## 📫 Connect with Me
-* **Email: sasindusachintha1234@gmail.com
-* ** GitHub: github.com/sasindusachintha
+* Email: sasindusachintha1234@gmail.com
+* GitHub: github.com/sasindusachintha
 
 ---
 
