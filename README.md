@@ -35,6 +35,10 @@ This lightweight, responsive website acts as a central hub for my professional p
 Local Setup
 No external build tools or node packages are required. To view or edit the site locally:
 
+```
+
+---
+
 Clone the repository:
 
 Bash
@@ -46,16 +50,15 @@ cd sasindusachintha.github.io
 Open the site:
 Simply double-click index.html or open it directly inside any standard modern web browser.
 
+---
+
 🔗 Featured Projects Linked
-GENIUS BOOKS: C++ Console-based Bookshop Management System.
-
-SweetCupcake Shop: Java Swing GUI Application for inventory/sales tracking.
-
-GreenTrack System: Database tracking application utilizing SQL and structured schema design.
+-- GENIUS BOOKS: C++ Console-based Bookshop Management System.
+-- SweetCupcake Shop: Java Swing GUI Application for inventory/sales tracking.
+-- GreenTrack System: Database tracking application utilizing SQL and structured schema design.
 
 📫 Connect with Me
-Email: sasindusachintha1234@gmail.com
-
-GitHub: github.com/sasindusachintha
+-- Email: sasindusachintha1234@gmail.com
+-- GitHub: github.com/sasindusachintha
 
 © 2025 Sasindu Sachintha. All Rights Reserved.
